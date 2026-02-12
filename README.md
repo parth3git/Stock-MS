@@ -42,7 +42,8 @@ Send WhatsApp Alert if:
 
 ## 🔄 System Workflow
 ### 🛒 When Customer Places Order:
-- Order is created
+
+- Order is created 
 - Stock is validated
   
    If stock available:
