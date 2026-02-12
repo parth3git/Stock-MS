@@ -6,7 +6,9 @@ This system manages product inventory, customer orders, automated stock alerts, 
 
 # 🚀 Tech Stack
 Java 17
+
 Spring Boot
+
 Spring Data JPA
 MySQL
 Maven
@@ -26,7 +28,7 @@ Purchase Success Handling
 Bill Generation
 Sending Bill to Customer via WhatsApp
 
-##2️⃣ Stock Service
+## 2️⃣ Stock Service
 Handles:
 Add New Product
 Update Product Details
