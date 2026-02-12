@@ -44,7 +44,7 @@ Send WhatsApp Alert if:
 ### 🛒 When Customer Places Order:
 - Order is created
 - Stock is validated
-
+  
    If stock available:
 - Purchase success
 - Bill generated
