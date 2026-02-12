@@ -44,12 +44,13 @@ Send WhatsApp Alert if:
 ### 🛒 When Customer Places Order:
 - Order is created
 - Stock is validated
-- If stock available:
+
+   If stock available:
 - Purchase success
 - Bill generated
 - Bill sent to customer WhatsApp (Twilio)
 
-### If stock not available:
+   If stock not available:
 - Admin notified via WhatsApp
 
 ### 📉 When Stock Falls Below Threshold:
@@ -60,7 +61,8 @@ Send WhatsApp Alert if:
 
 ### 🔗 Third Party Integrations
 ### 📧 SendGrid
-- Used to send stock reports to admin email
+- Used to send:
+- stock reports to admin email
 - Configured via environment variables
 
 ### 📱 Twilio
