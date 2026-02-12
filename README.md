@@ -56,7 +56,7 @@ Send WhatsApp Alert if:
 - Automatic alert sent to Admin via WhatsApp (Twilio)
 
 ### 📊 Stock Report:
-Admin receives stock summary via Email (SendGrid)
+- Admin receives stock summary via Email (SendGrid)
 
 ### 🔗 Third Party Integrations
 ### 📧 SendGrid
