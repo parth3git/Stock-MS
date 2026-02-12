@@ -4,66 +4,39 @@ A backend-based Stock and Order Management System built using Spring Boot micros
 
 This system manages product inventory, customer orders, automated stock alerts, and real-time notifications using third-party services like Twilio (WhatsApp) and SendGrid (Email).
 
-🚀 Tech Stack
-
+# 🚀 Tech Stack
 Java 17
-
 Spring Boot
-
 Spring Data JPA
-
 MySQL
-
 Maven
-
 REST APIs
-
 Twilio API (WhatsApp Notifications)
-
 SendGrid API (Email Service)
-
-Lombok
-
 Postman (API Testing)
 
-🏗 Architecture
-
+# 🏗 Architecture
 This project contains two backend microservices:
 
-1️⃣ Order Service
-
+## 1️⃣ Order Service
 Handles:
-
 New Customer Creation
-
 New Order Placement
-
 Purchase Success Handling
-
 Bill Generation
-
 Sending Bill to Customer via WhatsApp
 
-2️⃣ Stock Service
-
+##2️⃣ Stock Service
 Handles:
-
 Add New Product
-
 Update Product Details
-
 Add Stock
-
 Check Stock Availability
-
 Generate Stock Report
-
 Send Stock Report to Admin via Email
 
 Send WhatsApp Alert if:
-
 Stock is unavailable
-
 Stock goes below threshold
 
 🔄 System Workflow
