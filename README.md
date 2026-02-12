@@ -90,7 +90,7 @@ twilio.whatsapp.number=YOUR_TWILIO_WHATSAPP_NUMBER
 ## 🛠 How to Run
 ```
 1️⃣ Clone Repository
-git clone https://github.com/your-username/Stock-MS.git
+git clone https://github.com/parth3git/Stock-MS.git
 ```
 
 ```
